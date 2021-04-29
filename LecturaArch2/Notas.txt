@@ -1,0 +1,16 @@
+Nombre:Rosaysela_Galindo
+80
+Nombre:Cesar_Nina
+78
+Nombre:Fabiola_Almanza
+75
+Nombre:Jhoselin_Bernal
+85
+Nombre:Gilmar_Salazar
+65
+Nombre:Edgar_Estrada
+60
+Nombre:Arturo_Lima
+64
+Nombre:Cesia_Campos
+90
